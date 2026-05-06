@@ -86,12 +86,12 @@ pip install seaborn
 ## Getting Started:
 1. Clone this repository using git:  
 ```
-git clone https://github.com/niharika-k29/global-metrics-visualized
+git clone https://github.com/srikar2077b/global-metrics-visualized
 ```
 
 or download the code as a ZIP file
 ```
-https://github.com/niharika-k29/global-metrics-visualized/archive/refs/heads/main.zip
+https://github.com/srikar2077b/global-metrics-visualized/archive/refs/heads/main.zip
 ```
 
 2. Navigate to your project directory and run the desired scripts using:
@@ -103,8 +103,8 @@ python <filename.py>
 
 ### Example:
 ```
-python MCIS-6333_project_niharika.kompally_P1.py
-python MCIS-6333_project_niharika.kompally_P2.py
+python MCIS-6333_project_student_P1.py
+python MCIS-6333_project_student_P2.py
 ```
 
 ## Sample Visualizations:
